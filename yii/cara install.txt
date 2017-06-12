@@ -1,0 +1,7 @@
+install pertama
+1. buat folder terlebih dulu di htdocs
+2. masuk ke cmd dan ketikkan f: (bila berada di partisi f)
+3. ketik f:/program/xampp/php
+4. ketikkan php.exe php.exe F:/Program/xampp/yii/framework/yiic webapp f:/Program/xampp/htdocs/testdrive
+pasang gii
+1. pertama model kedua crud
